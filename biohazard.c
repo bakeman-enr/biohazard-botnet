@@ -47,7 +47,7 @@ help = """\033[91m
 ║ \033[00mMethods \033[91m|\033[00m Shows DDOS Methods For Biohazard.\033[91m            ║
 ║ \033[00mExtras  \033[91m|\033[00m Shows Extra Commands For Biohazard.\033[91m          ║
 ║ \033[00mUpdates \033[91m|\033[00m Shows Update Notes For Biohazard.\033[91m            ║
-║ \033[00mInfo    \033[91m|\033[00m Shows Diciple Info.\033[91m                        ║
+║ \033[00mInfo    \033[91m|\033[00m Shows Biohazard Info.\033[91m                        ║
 ║ \033[00mClear   \033[91m|\033[00m Clears Screen.\033[91m                             ║
 ║ \033[00mExit    \033[91m|\033[00m Exits Out Of Biohazard.\033[91m                    ║
 ╚══════════════════════════════════════════════════════╝\033[00m
@@ -59,7 +59,7 @@ updatenotes = """\033[91m
 ║══════════════════════════════════════════════════════║
 ║ \033[00m[+] Timeout Bug Fixed.\033[91m                               ║
 ║ \033[00m[+] Took Out Some Tools.\033[91m                             ║
-║ \033[00m[+] User And Pass Changed To Diciple.\033[91m                 ║
+║ \033[00m[+] User And Pass Changed To Biohazard.\033[91m                 ║
 ║ \033[00m[+] To Be A Guest Type "Guest" For User And Pass.\033[91m    ║
 ║ \033[00m[+] All Tools Fixed And Working.\033[91m                     ║
 ╚══════════════════════════════════════════════════════╝\033[00m
